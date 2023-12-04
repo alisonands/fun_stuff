@@ -1,2 +1,3 @@
-# tweet_prediction
-  A simple algorithim that takes an input of tweets and generates tweets based on the next word in the sequence.
+# Playground
+- Random fun things I experiment with (mostly in Python).
+1. (Tweet Prediction)[tweet_prediction]
